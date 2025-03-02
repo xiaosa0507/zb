@@ -266,7 +266,8 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 天津卫视,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://124.116.183.146:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-央视,#genre#
+
+野火,#genre#
 CCTV-1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-1综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
@@ -386,8 +387,6 @@ CCTV-14少儿,http://106.53.99.30/dl/bjyd.php?id=10
 CCTV-15音乐,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV-17农业农村,http://106.53.99.30/dl/bjyd.php?id=12
 
-
-卫视,#genre# 
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
